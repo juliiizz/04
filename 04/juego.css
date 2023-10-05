@@ -1,0 +1,89 @@
+
+body{
+    background-color: rgb(72, 151, 72);
+}
+/*color de fondo de la pagina*/
+h1{
+    text-align: center; /*alineacion del titulo*/
+    font-size: 100px;   /*tamañom de la letra del titulo*/
+    font-weight:500; /*grosor de la letra*/
+}
+h2{
+    text-align: center; /*alineacion del subtitulo*/
+    font-weight: bolder;
+    font-style: italic;
+}
+picture {
+    display: flex;
+    justify-content: center;
+}
+picture img {
+    width: 100%; 
+}
+.encabezado {  
+    text-align: center;  
+    text-transform: uppercase;  
+    font-weight: bold;  
+    font-size: 42px;
+}    
+
+#opciones {
+    text-align: center;
+    
+}
+#opciones li{
+    display: inline;
+    padding: 10px;
+}
+.bosque img{
+    width: 300px;
+    height: 400px;
+}
+.probabilidad{
+    text-align: center;  
+    font-weight: normal;  
+    font-size: 50px;
+}
+.probabilidadfinal{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 80px;
+}
+
+.pagsig{
+    display: flex;
+    justify-content: center;
+}
+.titulo{
+    text-align: center;
+    text-transform: lowercase;
+    font-size: 60px;
+    font-style: italic;
+}
+.texto{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.puente img{
+    width: 300px;
+    height: 400px;
+}
+.lala{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
